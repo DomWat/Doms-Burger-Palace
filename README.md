@@ -100,9 +100,10 @@ npm install react-router-dom<br>
 
 ## Videos and Screenshots
 
-Here are some images of our code and our product. 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
-![dbzcode](https://user-images.githubusercontent.com/49554888/96146084-8b1cc300-0ecb-11eb-8025-1cb8b2e734f5.png)
+Here are some images of the product. 
+<img width="899" alt="emptyBurgerSS" src="https://user-images.githubusercontent.com/70596778/102379774-cfd8df00-3f8c-11eb-8c1b-2ebe021bfdbb.png">
+<img width="855" alt="filledBurgerSS" src="https://user-images.githubusercontent.com/70596778/102379818-dbc4a100-3f8c-11eb-8209-732818a21b8e.png">
+<img width="818" alt="orderModalSS" src="https://user-images.githubusercontent.com/70596778/102379862-ea12bd00-3f8c-11eb-857b-84c4601752a6.png">
 
 
 
